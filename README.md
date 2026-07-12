@@ -1,6 +1,6 @@
 # 3lackcat Research
 
-> **Status: design and research phase.** This private repository is under active development. The architecture, interfaces, experiments, and roadmap described here are provisional; there is no stable release or production-ready implementation.
+> **Status: design and research phase.** This repository is under active development. The architecture, interfaces, experiments, and roadmap described here are provisional; there is no stable release or production-ready implementation.
 
 3lackcat Research is an applied cryptographic-security and algorithmic research project for **authorized, offline password recovery, defensive password auditing, and controlled security research**. It investigates how deterministic password and key-derivation-function verification can be surrounded by better data handling, probabilistic modeling, candidate ordering, resource allocation, reproducible evaluation, and explainable defensive reporting.
 
