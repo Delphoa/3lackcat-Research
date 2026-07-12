@@ -91,5 +91,5 @@ At this stage, 3lackcat Research is not production-ready, independently audited,
 
 This overview is synthesized from the internal *3lackcat System Design Document* and *3lackcat Design Outline: Functions 1-7*. It will evolve as research questions are tested and approval-gated architecture decisions are resolved.
 
-Reference: SE#PCFG: Semantically Enhanced PCFG for Password Analysis and Cracking
+Reference: SE#PCFG: Semantically Enhanced PCFG for Password Analysis and Cracking  
 https://arxiv.org/abs/2306.06824 
