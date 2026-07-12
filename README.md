@@ -53,7 +53,7 @@ Later system research extends this foundation with mixture ranking, target-profi
 
 ## Research questions
 
-- Can semantic PCFGs and learned sequence models improve fixed-budget candidate ordering over strong conventional baselines?
+- Can semantic PCFGs (Probabilistic Context-Free Grammars) and learned sequence models improve fixed-budget candidate ordering over strong conventional baselines?
 - Which decoding methods best balance probability order, diversity, determinism, memory use, and throughput?
 - How can normalization increase useful coverage without corrupting original bytes or causing uncontrolled candidate expansion?
 - How should multiple candidate sources be calibrated, deduplicated, and scheduled under a finite verification budget?
@@ -90,3 +90,6 @@ At this stage, 3lackcat Research is not production-ready, independently audited,
 ## Design basis
 
 This overview is synthesized from the internal *3lackcat System Design Document* and *3lackcat Design Outline: Functions 1-7*. It will evolve as research questions are tested and approval-gated architecture decisions are resolved.
+
+Reference: SE#PCFG: Semantically Enhanced PCFG for Password Analysis and Cracking
+https://arxiv.org/abs/2306.06824 
