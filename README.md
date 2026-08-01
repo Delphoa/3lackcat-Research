@@ -8,7 +8,7 @@ The project does not currently claim new ciphers, hash functions, protocols, or 
 
 ## Executive summary
 
-Existing recovery and audit workflows can waste finite compute budgets on duplicated, malformed, poorly ordered, or weakly documented candidate streams. 3lackcat explores a probability-ranked orchestration layer around an external deterministic verifier - for example, hashcat - so candidate-generation research can evolve without weakening the verification boundary.
+Existing recovery and audit workflows can waste finite compute budgets on duplicated, malformed, poorly ordered, or weakly documented candidate streams. 3lackcat explores a probability-ranked orchestration layer around an external deterministic verifier - for example, **hashcat** - so candidate-generation research can evolve without weakening the verification boundary.
 
 The governing principle is:
 
