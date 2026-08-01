@@ -30,7 +30,7 @@ The review does not provide software implementation instructions, operating proc
 
 ## Source Authority
 
-The section files are derived from the consolidated `3lackcat_function_8_probability_reranking_executive_outline.md`. That outline, in turn, is grounded in the current 3lackcat research, system-design, upstream-function, and agent-implementation documents.
+The section files are derived from the consolidated `Function 8 Probability Re-Ranking Executive Outline`. That outline, in turn, is grounded in the current 3lackcat research, system-design, upstream-function, and agent-implementation documents.
 
 Where sources differ or remain incomplete, the review follows this order:
 
@@ -54,7 +54,7 @@ Leadership should use this review to decide whether Function 8 is sufficiently a
 
 ## Document Map
 
-The complete local review is organized as Sections 1 through 11. This initial repository package publishes Sections 1 and 2; their subsections remain within the parent section file.
+The numbered files correspond directly to Sections 1 through 11 of the consolidated source. Subsections remain within their parent section; for example, Section 1 contains Sections 1.1 through 1.4 in one file.
 
 **Executive takeaway:** This document set is an evidence-gated decision aid. It describes what Function 8 should become, not what has already been proven.
 
