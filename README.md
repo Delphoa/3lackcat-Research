@@ -79,7 +79,7 @@ Representative measures include coverage at a fixed candidate budget, verified r
 
 This project is intended only for lawful work with explicit authorization, such as recovery for assets owned or administered by the operator, written-scope enterprise password audits, properly authorized forensics, and research using approved datasets.
 
-It is **not** designed for online login automation, credential stuffing, phishing, rate-limit evasion, access-control bypass, or unauthorized account access. Ambiguous scope must fail closed. Private repository access does not itself grant authorization to use this research or any future software against a target.
+It is **not** designed for online login automation, credential stuffing, phishing, rate-limit evasion, access-control bypass, or unauthorized account access. Ambiguous scope must fail closed. Repository access does not grant authorization to use this research or any future software against a target.
 
 Sensitive inputs and outputs require data minimization, provenance, access control, redacted logs, and explicit retention or destruction rules. Plaintext may exist only where operationally necessary and approved, and should remain access-controlled and ephemeral wherever possible.
 
